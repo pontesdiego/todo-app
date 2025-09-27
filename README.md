@@ -5,6 +5,11 @@ This project demonstrates the use of React hooks (`useState`) for managing state
 
 ---
 
+## 🔗 Live Demo
+👉 [Click here to try the app](https://garimaakashyap.github.io/todo-app)
+
+---
+
 ## 🚀 Features
 
 - ➕ Add new tasks
