@@ -31,13 +31,13 @@ This project demonstrates the use of React hooks (`useState`) for managing state
 ## App Structure
 
 todo-app/
-│-- public/
-│-- src/
-│   │-- App.js        # Main component
-│   │-- index.js      # Entry point
-│   └-- ...           # Other files
-│-- package.json
-│-- README.md
+-│-- public/
+-│-- src/
+-│   │-- App.js        # Main component
+-│   │-- index.js      # Entry point
+-│   └-- ...           # Other files
+-│-- package.json
+-│-- README.md
 
 
 ---
