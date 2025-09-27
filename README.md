@@ -44,9 +44,19 @@ todo-app/
 
 ## 📦 Installation & Setup
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/garimaakashyap/todo-app.git
-   ```
+1. Clone this repository: `git clone https://github.com/garimaakashyap/todo-app.git`
+2. Navigate to the project directory: `cd todo-app`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser and visit: `http://localhost:3000/todo-app`
+
+---
+
+## Contact
+
+- **GeeksforGeeks Profile**: [Your gfg](https://www.geeksforgeeks.org/user/garimamillicent/)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/garima-kashyap-75b1202b8/)
+- **GitHub**: [Your GitHub](https://github.com/garimaakashyap)
+
